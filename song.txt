@@ -1,1 +1,3 @@
 Create a file called song.txt
+
+and put there half the text of your favorite song
